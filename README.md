@@ -1,4 +1,4 @@
-# PyViz_Dashboard San Francisco Real Estate
+# PyViz Dashboard Analysis of San Francisco Real Estate
 
 ![San Francisco Park Reading](Images/san-francisco-park-reading.jpg)
 
